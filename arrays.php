@@ -1,5 +1,5 @@
 <!doctype html>
-<lang="en">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
-<>
+<body>
 <?php
 $car = array("Fiesta","Focus", "Puma", "Kuga");
 $poeta = array("Adam Mickiewicz", "24 grudnia 1798");

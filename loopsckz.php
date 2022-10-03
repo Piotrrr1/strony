@@ -12,7 +12,7 @@
 <ol type="i">
 
     <?php
-    for ($n = 1; $n <= 100; $n++ ){
+    for($n = 1; $n <= 100; $n++ ){
         echo "<li>To jest $n element listy</li>";
         break;
     }
